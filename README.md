@@ -1,0 +1,2 @@
+# UniqueVideoFrames
+Algorythm before OpenCV
